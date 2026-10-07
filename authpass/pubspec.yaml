@@ -90,7 +90,7 @@ dependencies:
 
   flutter_colorpicker: ^1.1.0
   flutter_speed_dial: ^7.0.0
-  flutter_email_sender: ^8.0.0
+  flutter_email_sender: ^11.1.0
   flutter_store_listing: ^1.1.0
 
 #  biometric_storage: ^5.1.1-dev.1
@@ -114,9 +114,9 @@ dependencies:
 
 
   # UI Utilities and Widgets
-  badges: ^3.1.1
+  badges: ^4.0.1
   qr_flutter: ^4.0.0
-  another_flushbar: ^1.10.20
+  another_flushbar: ^2.2.4
   filesystem_picker: ^4.1.0
   #tinycolor: ^1.0.3
   tinycolor: # null-safety https://github.com/FooStudio/tinycolor/pull/13
@@ -148,7 +148,7 @@ dependencies:
   xml: ">=5.5.0 <7.0.0"
 
   # google drive
-  googleapis: ^15.0.0
+  googleapis: ^17.0.0
   googleapis_auth: ^2.0.0
   google_sign_in: ^7.0.0
   google_sign_in_web: ^1.0.0
@@ -165,7 +165,7 @@ dependencies:
   # FDE
   file_selector: ^1.0.0
 
-  macos_secure_bookmarks: ^0.2.0
+  macos_secure_bookmarks: ^0.3.0
 
   # UI Utils
   percent_indicator: ^4.2.2
@@ -191,7 +191,7 @@ dependencies:
 #      url: https://github.com/authpass/flutter_zxing.git
 #      ref: 036c3e387d32d3c8b2f5b3a3ebedb55c6eb69c30
   # https://github.com/crazecoder/open_file/pull/258
-  open_file: ^3.5.10
+  open_file: ^4.0.0
 #  open_filex: ^4.7.0
 #  open_file:
 #    git:
@@ -215,7 +215,7 @@ dependencies:
   flutter_linkify: ^6.0.0
 #  openapi_base: ^0.1.5+5
   flutter_cache_manager: ^3.3.1
-  cached_network_image: ^3.3.1
+  cached_network_image: ^4.0.4
   authpass_cloud_shared:
     path: ../deps/authpass-cloud/packages/authpass_cloud_shared
   # windows updater

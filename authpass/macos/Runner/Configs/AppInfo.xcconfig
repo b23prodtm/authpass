@@ -8,7 +8,12 @@
 PRODUCT_NAME = AuthPass
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = design.codeux.authpass
+//PRODUCT_BUNDLE_IDENTIFIER = design.codeux.authpass
+PRODUCT_BUNDLE_IDENTIFIER = info.b23prodtm.authpass
+
+// The application's development team
+//DEVELOPMENT_TEAM = MDLZG8NQNK
+DEVELOPMENT_TEAM = MDLZG8NQNK
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2021 CodeUX.design e.U. All rights reserved.
